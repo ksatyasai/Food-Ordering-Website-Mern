@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "685abf52e4c02dd1ea08319c"
+  },
+  "ownerId": "685abf52e4c02dd1ea08319a",
+  "title": "Urban Spice",
+  "address": "Rajamundry",
+  "mainImg": "https://img.freepik.com/premium-vector/restaurant-logo-design-template_79169-56.jpg?w=2000",
+  "menu": [
+    "",
+    "",
+    "",
+    "",
+    "Starters",
+    "Fried Rice"
+  ],
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "685ac1a7e4c02dd1ea0831c9"
+  },
+  "ownerId": "685ac1a7e4c02dd1ea0831c7",
+  "title": "Habitat",
+  "address": "Kakinada",
+  "mainImg": "https://theworldkeys.com/wp-content/uploads/2023/08/Habitat-restaurant-Miami-Beach_theworldkeys_3.webp",
+  "menu": [
+    "Sandwich",
+    "Burger"
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "685ac29ae4c02dd1ea0831e4"
+  },
+  "ownerId": "685ac29ae4c02dd1ea0831e2",
+  "title": "Pizza Hut",
+  "address": "Vizag",
+  "mainImg": "https://tse3.mm.bing.net/th?id=OIP.VyyUSz8WtbGwOwJFsGOHLgHaE7&pid=Api&P=0&h=180",
+  "menu": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "685c11ad2ee52d765e4c05e4"
+  },
+  "ownerId": "685c11ad2ee52d765e4c05e2",
+  "title": "Foodie Junction",
+  "address": "Rajamundry",
+  "mainImg": "https://wallpaperaccess.com/full/3692914.jpg",
+  "menu": [
+    "Sanck"
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "685c12492ee52d765e4c0603"
+  },
+  "ownerId": "685c12492ee52d765e4c0601",
+  "title": "Snack Attack",
+  "address": "Rajamundry",
+  "mainImg": "https://tse4.mm.bing.net/th?id=OIP.byGzrkeeqReFCM4v55s20wHaEj&pid=Api&P=0&h=180",
+  "menu": [
+    "snack",
+    "Soft Drinks"
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "685c12a42ee52d765e4c0614"
+  },
+  "ownerId": "685c12a42ee52d765e4c0612",
+  "title": "Velvet Table",
+  "address": "Rajamundry",
+  "mainImg": "https://img.freepik.com/premium-photo/assorted-fancy-cakes-shop-window-cafe_267929-725.jpg?w=2000",
+  "menu": [
+    "Cake",
+    "Juices"
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "685c13562ee52d765e4c063f"
+  },
+  "ownerId": "685c13562ee52d765e4c063d",
+  "title": "Creamery House",
+  "address": "Kakinada",
+  "mainImg": "https://tse4.mm.bing.net/th?id=OIP.W1LwyQqxhbOc6ci2XBnczAHaE7&pid=Api&P=0&h=180",
+  "menu": [],
+  "__v": 0
+}]

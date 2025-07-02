@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "685ab10ae4c02dd1ea08316c"
+  },
+  "username": "admin",
+  "password": "$2b$10$ly20EsM9qGr7GydCJtPuuupyuVabTWnsXVcqIKTgwsgXXbilzp1T6",
+  "email": "admin@gmail.com",
+  "usertype": "admin",
+  "approval": "approved",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685abf52e4c02dd1ea08319a"
+  },
+  "username": "restaurant",
+  "password": "$2b$10$NBoxgC/8lvBNnnnklyIJV.RmH7XCF3iOIAIc05dYzg062TLFwVPwW",
+  "email": "restaurant@gmail.com",
+  "usertype": "restaurant",
+  "approval": "approved",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685ac1a7e4c02dd1ea0831c7"
+  },
+  "username": "habitat",
+  "password": "$2b$10$EcpS/3K7CMME2h.J3Jx9x.4SZj9uBceaH1T4dangDQeBYMV9/ooF2",
+  "email": "habitat@gmail.com",
+  "usertype": "restaurant",
+  "approval": "approved",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685ac29ae4c02dd1ea0831e2"
+  },
+  "username": "Pizza Hut",
+  "password": "$2b$10$V1suNorOP/8RrG.wfnPPrOp42BzwpnX.1.ykJwOHXgbE6e624km96",
+  "email": "pizzahut@gmail.com",
+  "usertype": "restaurant",
+  "approval": "approved",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685ac321e4c02dd1ea0831f4"
+  },
+  "username": "deepu",
+  "password": "$2b$10$2wFtzwtwZoqzOlnZnYoJ1.x.9rBCiEBqi9ErPw3gMMl8g3IgaQdvO",
+  "email": "deepu@gmail.com",
+  "usertype": "customer",
+  "approval": "approved",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685bd02a2ee52d765e4c0059"
+  },
+  "username": "adminn",
+  "password": "$2b$10$XuIz3YrYHL.1Q1DYBPl85eVCj2idJ2oSZGvhYrizrbBrwPBtiVzG.",
+  "email": "adminn@gmail.com",
+  "usertype": "admin",
+  "approval": "approved",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685c11ad2ee52d765e4c05e2"
+  },
+  "username": "Foodie Junction",
+  "password": "$2b$10$r1MzywNmcklbNXssPpS5mON63qK01pr3Jj/ZHNlliBMYJehsKbW8C",
+  "email": "foodie@gmail.com",
+  "usertype": "restaurant",
+  "approval": "approved",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685c12492ee52d765e4c0601"
+  },
+  "username": "Snack Attack",
+  "password": "$2b$10$v6OTEMD1YeF09ZkrXNUBceX6c2pLLV5/jypPnOyWRtSvgqrocY862",
+  "email": "snack@gmail.com",
+  "usertype": "restaurant",
+  "approval": "approved",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685c12a42ee52d765e4c0612"
+  },
+  "username": "Velvet Table",
+  "password": "$2b$10$K6nIGZhyp670HgaiXewEMOfQkT8NWcsKvbIAMfFMcxfAaH.ANKx3.",
+  "email": "velvet@gmail.com",
+  "usertype": "restaurant",
+  "approval": "approved",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685c13562ee52d765e4c063d"
+  },
+  "username": "Creamery House",
+  "password": "$2b$10$10C1O0XQz81V6oLF2e8zHOMFCBdEZg8kA6gHAvtfiwMqyDHAoBiWa",
+  "email": "creamery@gmail.com",
+  "usertype": "restaurant",
+  "approval": "approved",
+  "__v": 0
+}]
