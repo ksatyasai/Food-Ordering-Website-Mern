@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "685a8434e4c02dd1ea083164"
+  },
+  "categories": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Starters",
+    "Fried Rice",
+    "Sandwich",
+    "Burger",
+    "Sanck",
+    "snack",
+    "Soft Drinks",
+    "Cake",
+    "Juices"
+  ],
+  "promotedRestaurants": [],
+  "__v": 19
+},
+{
+  "_id": {
+    "$oid": "685a8434e4c02dd1ea083162"
+  },
+  "categories": [],
+  "promotedRestaurants": [],
+  "__v": 0
+}]
